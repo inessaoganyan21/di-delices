@@ -29,7 +29,7 @@ p {
 }
 
 .spaces p {
-	color: #9a9a9a;
+	color: #454242;
 	font-size: 17px;
 	line-height: 24px;
 
@@ -98,7 +98,7 @@ p {
 	width: 100%;
 /*	border-bottom: 1px solid #f2745f45;*/
 	position: relative;
-	padding: 40px 0px;
+	padding: 40px 0px 0px 0px;
 	height: auto!important;
 }
 
