@@ -30,8 +30,8 @@ p {
 
 .spaces p {
 	color: #454242;
-	font-size: 17px;
-	line-height: 24px;
+	font-size: 15px;
+	line-height: 22px;
 
 }
 
@@ -143,7 +143,7 @@ background: #707070;
 	font-family: 'Roboto', sans-serif;
 	font-size: 17px;
 	
-	color: #363e50!important;
+	color: #6d7075!important;
 	letter-spacing: 1.3px;
 }
 
@@ -527,6 +527,10 @@ font-family: 'Darleston';
 	font-size: 25px;
    font-family: 'Spectral', serif;
    font-style: lighter;
+   color: #333;
+}
+.cakes li {
+	line-height: 22px;
 }
 
 
@@ -562,7 +566,7 @@ font-family: 'Darleston';
 
 .blog-post .right-content span {
 	font-size: 25px;
-	color: #7a7a7a;
+	color: #333;
 	display: inline-block;
 	margin-bottom: 18px;
       font-family: 'Spectral', serif;
@@ -572,10 +576,10 @@ font-family: 'Darleston';
 .blog-post .right-content .text-button a {
 	font-size: 13px;
 	font-weight: 500;
-	color: #4542428a;
+	color: #333;
 	text-decoration: none;
 	text-transform: uppercase;
-	margin-top: 12px;
+	margin-bottom: 14px;
 	display: inline-block;
 }
 
@@ -643,7 +647,7 @@ section.sign-up {
 
 
 footer {
-	background-color: #363e50;
+	background-color: #6d7075;
 	line-height: 130px;
 	text-align: center;
 }
@@ -679,7 +683,7 @@ footer ul li i {
 	line-height: 36px!important;
 	background-color: #fff;
 	border-radius: 50%;
-	color: #363e50;
+	color: #6d7075;
 	transition: all 0.5s;
 }
 
@@ -945,7 +949,7 @@ background-image: -webkit-linear-gradient(top,#fff,#fff 100%);
 
 
 .dropdown-menu {
-	min-width : 220px;
+	min-width : 237px;
 	border:none;
 }
 .blog-item .down-content .text-button a {
@@ -1101,7 +1105,7 @@ section.map #map {
 		margin-top: 20px;
 	}
 	footer {
-		background-color: #363e50;
+		background-color: #6d7075;
 		line-height: 40px;
 		text-align: center;
 	}
@@ -1216,7 +1220,7 @@ section.map #map {
 		margin-top: 20px;
 	}
 	footer {
-		background-color: #363e50;
+		background-color: #6d7075;
 		line-height: 40px;
 		text-align: center;
 	}
