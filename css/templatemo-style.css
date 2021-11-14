@@ -644,6 +644,15 @@ section.sign-up {
 	outline: none!important;
 }
 
+ @media (max-width: 991px) 
+	{
+		
+
+		.tarifs img {display: none;
+	}
+	
+
+}
 
 
 footer {
