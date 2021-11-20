@@ -710,6 +710,12 @@ section.sign-up {
 	font-size: 40px;
 }
 
+section.lunch-menu {
+	margin-top: 40px !important;
+}
+section.our-blog {
+	padding: 50px 0px 70px 0px
+}
 }
 
 
