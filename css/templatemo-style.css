@@ -23,7 +23,7 @@ ul {
 }
 
 p {
-	color: #9a9a9a;
+	color: #777;
 	font-size: 13px;
 	line-height: 24px;
 }
@@ -374,7 +374,7 @@ section#book-table .left-image img {
 	outline: none;
 	border-bottom: 1px solid #eee;	
 	font-size: 14px;
-	color: #9a9a9a;
+	color: #777;
 	padding-left: 10px;
 	height: 40px;
 }
@@ -389,7 +389,7 @@ section#book-table .left-image img {
 	border-top: none;
 	border-bottom: 1px solid #eee;
 	font-size: 14px;
-	color: #9a9a9a;
+	color: #777;
 }
 
 .right-info button {
@@ -525,10 +525,18 @@ font-family: 'Darleston';
 .heading2 {
 	margin-left: 20px;
 	font-size: 25px;
+	line-height: 30px;
    font-family: 'Spectral', serif;
    font-style: lighter;
    color: #333;
 }
+
+.heading3 {
+margin-left: 20px;
+	font-size: 19px;
+   font-family: 'Spectral', serif;
+   font-style: lighter;
+   color: #333;}
 .cakes li {
 	line-height: 22px;
 }
